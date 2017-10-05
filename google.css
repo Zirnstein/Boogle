@@ -1,0 +1,33 @@
+.googleimage {
+      /* postavitev na sredino stran zaslona */
+      position: relative;
+    left: 600px;
+    top: 250px;
+}
+
+.navigation {
+    height: 450px;
+    width: auto;
+}
+
+.oj{
+  position: relative;
+left: 230px;
+top: 290px;
+height: 30px;
+width: 350px;
+}
+
+.gumb{
+  position: relative;
+left: 670px;
+top: 0px;
+
+}
+
+.gumb2{
+  position: relative;
+left: 690px;
+top: 0px;
+
+}
